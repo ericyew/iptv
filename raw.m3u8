@@ -461,3 +461,231 @@ https://i.mjh.nz/al-jazeera.m3u8
 
 #EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
 https://i.mjh.nz/channel-news-asia.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6157" tvg-id="mjh-radio-ih-6157" tvg-logo="https://i.iheart.com/v3/re/assets/images/3c268c71-295d-47d8-8015-5eb0c766295c.png" group-title="Melbourne" radio="true" , KIIS 101.1
+https://i.mjh.nz/radio-ih-6157.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6181" tvg-id="mjh-radio-ih-6181" tvg-logo="https://i.iheart.com/v3/re/assets/images/8dd64dc9-5978-45d6-8df5-17b167082cc0.png" group-title="Melbourne" radio="true" , GOLD 104.3
+https://i.mjh.nz/radio-ih-6181.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6179" tvg-id="mjh-radio-ih-6179" tvg-logo="https://i.iheart.com/v3/re/new_assets/623faa90fb788a23d0b662b2" group-title="Melbourne" radio="true" , CADA
+https://i.mjh.nz/radio-ih-6179.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9917" tvg-id="mjh-radio-ih-9917" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64acdf485a6a808069b1a560" group-title="Melbourne" radio="true" , iHeartTrivia with Osher & Yumi
+https://i.mjh.nz/radio-ih-9917.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10074" tvg-id="mjh-radio-ih-10074" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65641e4591561febc9b4b7fe" group-title="Melbourne" radio="true" , Gold 80s
+https://i.mjh.nz/radio-ih-10074.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10070" tvg-id="mjh-radio-ih-10070" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65641771507d911431d61066" group-title="Melbourne" radio="true" , KIIS 90s
+https://i.mjh.nz/radio-ih-10070.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7132" tvg-id="mjh-radio-ih-7132" tvg-logo="https://i.iheart.com/v3/re/new_assets/587391e7be6be1c151877d8b" group-title="Melbourne" radio="true" , ABC Radio Melbourne
+https://i.mjh.nz/radio-ih-7132
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8674" tvg-id="mjh-radio-ih-8674" tvg-logo="https://i.iheart.com/v3/re/new_assets/5efd77b92bf34ad21da40035" group-title="Melbourne" radio="true" , Easy Music 3MP
+https://i.mjh.nz/radio-ih-8674.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6714" tvg-id="mjh-radio-ih-6714" tvg-logo="https://i.iheart.com/v3/re/new_assets/61f77bb6554825e1bc2a21ae" group-title="Melbourne" radio="true" , Magic 1278
+https://i.mjh.nz/radio-ih-6714.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6902" tvg-id="mjh-radio-ih-6902" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b9058d0fe2ad7e64989533a" group-title="Melbourne" radio="true" , iHeartRadio Countdown AUS
+https://i.mjh.nz/radio-ih-6902.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8876" tvg-id="mjh-radio-ih-8876" tvg-logo="https://i.iheart.com/v3/re/new_assets/610874e38b07cac90c5c8e81" group-title="Melbourne" radio="true" , TikTok Trending on iHeartRadio
+https://i.mjh.nz/radio-ih-8876.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6941" tvg-id="mjh-radio-ih-6941" tvg-logo="https://i.iheart.com/v3/re/assets.streams/652741b2f702ccd6ae1831d1" group-title="Melbourne" radio="true" , iHeartDance
+https://i.mjh.nz/radio-ih-6941.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6327" tvg-id="mjh-radio-ih-6327" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c8275d6812dae62ffafeac" group-title="Melbourne" radio="true" , The Bounce
+https://i.mjh.nz/radio-ih-6327.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7050" tvg-id="mjh-radio-ih-7050" tvg-logo="https://i.iheart.com/v3/re/new_assets/6180c315c3362190b399919b" group-title="Melbourne" radio="true" , iHeartAustralia
+https://i.mjh.nz/radio-ih-7050.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7115" tvg-id="mjh-radio-ih-7115" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cff35778dc2831fd5229b9d" group-title="Melbourne" radio="true" , triple j
+https://i.mjh.nz/radio-ih-7115
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7090" tvg-id="mjh-radio-ih-7090" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cff35078dc2831fd5229b9b" group-title="Melbourne" radio="true" , Double J
+https://i.mjh.nz/radio-ih-7090
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7116" tvg-id="mjh-radio-ih-7116" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cff35e18dc2831fd5229b9f" group-title="Melbourne" radio="true" , triple j Unearthed
+https://i.mjh.nz/radio-ih-7116
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7110" tvg-id="mjh-radio-ih-7110" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cf84c15fde6e9394e43245a" group-title="Melbourne" radio="true" , ABC NewsRadio
+https://i.mjh.nz/radio-ih-7110
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9056" tvg-id="mjh-radio-ih-9056" tvg-logo="https://i.iheart.com/v3/re/new_assets/62ecbccc5be8e2527065dc7b" group-title="Melbourne" radio="true" , TICKER NEWS
+https://i.mjh.nz/radio-ih-9056.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9688" tvg-id="mjh-radio-ih-9688" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63c8f6d5c343ad51237687fa" group-title="Melbourne" radio="true" , Radio National
+https://i.mjh.nz/radio-ih-9688
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10240" tvg-id="mjh-radio-ih-10240" tvg-logo="https://i.iheart.com/v3/re/assets.streams/662ee68454a4bc10de1cfea7" group-title="Melbourne" radio="true" , Disrupt Radio
+https://i.mjh.nz/radio-ih-10240.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7112" tvg-id="mjh-radio-ih-7112" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66349572d396d02d1ad2bcc4" group-title="Melbourne" radio="true" , ABC Sport
+https://i.mjh.nz/radio-ih-7112
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9735" tvg-id="mjh-radio-ih-9735" tvg-logo="https://i.iheart.com/v3/re/assets.streams/640ea4021536c94e48d6eabc" group-title="Melbourne" radio="true" , ABC AFL
+https://i.mjh.nz/radio-ih-9735
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10232" tvg-id="mjh-radio-ih-10232" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66349619601b023ce122fb35" group-title="Melbourne" radio="true" , ABC AFL Extra
+https://i.mjh.nz/radio-ih-10232
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10233" tvg-id="mjh-radio-ih-10233" tvg-logo="https://i.iheart.com/v3/re/assets.streams/663496af6d12feb97c8f3d42" group-title="Melbourne" radio="true" , ABC Sport Extra
+https://i.mjh.nz/radio-ih-10233
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7118" tvg-id="mjh-radio-ih-7118" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cff3a518dc2831fd5229ba3" group-title="Melbourne" radio="true" , ABC Classic
+https://i.mjh.nz/radio-ih-7118
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7123" tvg-id="mjh-radio-ih-7123" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cf84dc6fde6e9394e432460" group-title="Melbourne" radio="true" , ABC Classic 2
+https://i.mjh.nz/radio-ih-7123
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6183" tvg-id="mjh-radio-ih-6183" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e743bc6fa47b0d7c46e6c39" group-title="Melbourne" radio="true" , 3MBS Fine Music Melbourne
+https://i.mjh.nz/radio-ih-6183.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7124" tvg-id="mjh-radio-ih-7124" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63fffca0d97a654b24601522" group-title="Melbourne" radio="true" , ABC Jazz
+https://i.mjh.nz/radio-ih-7124
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7125" tvg-id="mjh-radio-ih-7125" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63fffca0d97a654b24601521" group-title="Melbourne" radio="true" , ABC Country
+https://i.mjh.nz/radio-ih-7125
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7222" tvg-id="mjh-radio-ih-7222" tvg-logo="https://i.iheart.com/v3/re/new_assets/b0bbd1d1-1f81-4ee8-8220-e5f163046dde" group-title="Melbourne" radio="true" , iHeartCountry Australia
+https://i.mjh.nz/radio-ih-7222.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9315" tvg-id="mjh-radio-ih-9315" tvg-logo="https://i.iheart.com/v3/re/new_assets/62eb7b18604d9d300ec34530" group-title="Melbourne" radio="true" , KIX Country
+https://i.mjh.nz/radio-ih-9315.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7547" tvg-id="mjh-radio-ih-7547" tvg-logo="https://i.iheart.com/v3/re/assets.streams/657bd379f9abad8e25e39a37" group-title="Melbourne" radio="true" , JOY
+https://i.mjh.nz/radio-ih-7547
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6328" tvg-id="mjh-radio-ih-6328" tvg-logo="https://i.iheart.com/v3/re/new_assets/627c4f123de77874b3705136" group-title="Melbourne" radio="true" , 96.5 Inner FM
+https://i.mjh.nz/radio-ih-6328.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8676" tvg-id="mjh-radio-ih-8676" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f03bcfc7fa67c080f58aca2" group-title="Melbourne" radio="true" , Golden Days Radio
+https://i.mjh.nz/radio-ih-8676.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6182" tvg-id="mjh-radio-ih-6182" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d23de7bdb1e1347a068f5a1" group-title="Melbourne" radio="true" , 3KND
+https://i.mjh.nz/radio-ih-6182.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6316" tvg-id="mjh-radio-ih-6316" tvg-logo="https://i.iheart.com/v3/re/new_assets/62dee937b7d7a2a61415a421" group-title="Melbourne" radio="true" , PBS 106.7FM
+https://i.mjh.nz/radio-ih-6316.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9522" tvg-id="mjh-radio-ih-9522" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a951e7a7ebad73f300f543" group-title="Melbourne" radio="true" , 3MDR
+https://i.mjh.nz/radio-ih-9522.aacp
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9885" tvg-id="mjh-radio-ih-9885" tvg-logo="https://i.iheart.com/v3/re/assets.streams/647f282eb86cd061b1eff63f" group-title="Melbourne" radio="true" , 88.6 Plenty Valley FM
+https://i.mjh.nz/radio-ih-9885
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9368" tvg-id="mjh-radio-ih-9368" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63fc0d1e95946aece43ff6ff" group-title="Melbourne" radio="true" , 3CR Community Radio
+https://i.mjh.nz/radio-ih-9368.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9434" tvg-id="mjh-radio-ih-9434" tvg-logo="https://i.iheart.com/v3/re/new_assets/627bb4981799f5e4dd566a82" group-title="Melbourne" radio="true" , 3ZZZ
+https://i.mjh.nz/radio-ih-9434.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8670" tvg-id="mjh-radio-ih-8670" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef30c659212d410968ac442" group-title="Melbourne" radio="true" , SYN
+https://i.mjh.nz/radio-ih-8670.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9105" tvg-id="mjh-radio-ih-9105" tvg-logo="https://i.iheart.com/v3/re/new_assets/616522426ab77929c3d783bc" group-title="Melbourne" radio="true" , 89.9 TheLight
+https://i.mjh.nz/radio-ih-9105
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9106" tvg-id="mjh-radio-ih-9106" tvg-logo="https://i.iheart.com/v3/re/new_assets/617f81a94e4d0abbe6e37288" group-title="Melbourne" radio="true" , TheLight MIX
+https://i.mjh.nz/radio-ih-9106
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9177" tvg-id="mjh-radio-ih-9177" tvg-logo="https://i.iheart.com/v3/re/new_assets/617f81c54e4d0abbe6e3728a" group-title="Melbourne" radio="true" , TheLight Worship
+https://i.mjh.nz/radio-ih-9177
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9689" tvg-id="mjh-radio-ih-9689" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63ca07e675c6d3c9b84f4781" group-title="Melbourne" radio="true" , Vision Christian Radio
+https://i.mjh.nz/radio-ih-9689.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9195" tvg-id="mjh-radio-ih-9195" tvg-logo="https://i.iheart.com/v3/re/new_assets/617f2881bd5039e366ef0289" group-title="Melbourne" radio="true" , Woolworths Radio
+https://i.mjh.nz/radio-ih-9195
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6178" tvg-id="mjh-radio-ih-6178" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b862f497f66f2e1e526ba23" group-title="Melbourne" radio="true" , Chemist Warehouse Remix
+https://i.mjh.nz/radio-ih-6178.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7967" tvg-id="mjh-radio-ih-7967" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cf84bc9fde6e9394e432456" group-title="Melbourne" radio="true" , ABC KIDS Listen
+https://i.mjh.nz/radio-ih-7967
+
+#EXTINF:-1 channel-id="mjh-radio-ih-8005" tvg-id="mjh-radio-ih-8005" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b79fec37f66f2a2b9cfd0e9" group-title="Melbourne" radio="true" , Radio Australia
+https://i.mjh.nz/radio-ih-8005
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6998" tvg-id="mjh-radio-ih-6998" tvg-logo="https://i.iheart.com/v3/re/new_assets/f90a1970-15fe-42bd-9340-6449fd56f33f" group-title="Melbourne" radio="true" , SBS Radio 1
+https://i.mjh.nz/radio-ih-6998
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7025" tvg-id="mjh-radio-ih-7025" tvg-logo="https://i.iheart.com/v3/re/new_assets/94379826-2819-4381-a6e8-50266b8b4044" group-title="Melbourne" radio="true" , SBS Radio 2
+https://i.mjh.nz/radio-ih-7025
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7030" tvg-id="mjh-radio-ih-7030" tvg-logo="https://i.iheart.com/v3/re/new_assets/96eb69da-3455-435a-92b0-74421f1f2a2b" group-title="Melbourne" radio="true" , SBS Arabic24
+https://i.mjh.nz/radio-ih-7030
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7029" tvg-id="mjh-radio-ih-7029" tvg-logo="https://i.iheart.com/v3/re/new_assets/6281c8f1ef3f5a7456d95f1c" group-title="Melbourne" radio="true" , SBS Chill
+https://i.mjh.nz/radio-ih-7029
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7031" tvg-id="mjh-radio-ih-7031" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6625f5599e50a9b2f7d06c19" group-title="Melbourne" radio="true" , SBS South Asian
+https://i.mjh.nz/radio-ih-7031
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7028" tvg-id="mjh-radio-ih-7028" tvg-logo="https://i.iheart.com/v3/re/new_assets/6dad816f-550c-4f2f-8ebd-008188bf3ddc" group-title="Melbourne" radio="true" , SBS PopAsia
+https://i.mjh.nz/radio-ih-7028
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10143" tvg-id="mjh-radio-ih-10143" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c44b3d3fef48f1bff243c6" group-title="Melbourne" radio="true" , 2ME
+https://i.mjh.nz/radio-ih-10143
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9024" tvg-id="mjh-radio-ih-9024" tvg-logo="https://i.iheart.com/v3/re/new_assets/60f9511c07e826da5c937ad1" group-title="Melbourne" radio="true" , VA Radio Melbourne
+https://i.mjh.nz/radio-ih-9024.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7421" tvg-id="mjh-radio-ih-7421" tvg-logo="https://i.iheart.com/v3/re/new_assets/5996804ee7bf0342713fb26f" group-title="Melbourne" radio="true" , AndrewHaug.com Metal Radio
+https://i.mjh.nz/radio-ih-7421
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6794" tvg-id="mjh-radio-ih-6794" tvg-logo="https://i.iheart.com/v3/re/new_assets/e1724129-4e37-4eac-9d23-be1b2832a818" group-title="Au" radio="true" , The 80s iHeartRadio
+https://i.mjh.nz/radio-ih-6794.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6793" tvg-id="mjh-radio-ih-6793" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e93955ade5b503e88d62549" group-title="Au" radio="true" , The 90s iHeartRadio
+https://i.mjh.nz/radio-ih-6793.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-7111" tvg-id="mjh-radio-ih-7111" tvg-logo="https://i.iheart.com/v3/re/new_assets/6019fe392149c6973fdff664" group-title="Au" radio="true" , Radio National
+https://i.mjh.nz/radio-ih-7111
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9661" tvg-id="mjh-radio-ih-9661" tvg-logo="https://i.iheart.com/v3/re/new_assets/63a23ba4c183baa66e69989f" group-title="Au" radio="true" , Plus Fitness Radio
+https://i.mjh.nz/radio-ih-9661.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6315" tvg-id="mjh-radio-ih-6315" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d23ee2ddb1e1347a068f5b1" group-title="Au" radio="true" , Inspire Digital
+https://i.mjh.nz/radio-ih-6315
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9934" tvg-id="mjh-radio-ih-9934" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64c101a2140bc422b010a3cd" group-title="Au" radio="true" , PopRock Country
+https://i.mjh.nz/radio-ih-9934
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9933" tvg-id="mjh-radio-ih-9933" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64c0ff1a140bc422b010a3ca" group-title="Au" radio="true" , PopRock Radio
+https://i.mjh.nz/radio-ih-9933
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9952" tvg-id="mjh-radio-ih-9952" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64d320128d46ba2e10aabf73" group-title="Au" radio="true" , LiQUORiCE.fm
+https://i.mjh.nz/radio-ih-9952
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9984" tvg-id="mjh-radio-ih-9984" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6506a3afb05bc240e3aae2cd" group-title="Au" radio="true" , Radio Melody Australia
+https://i.mjh.nz/radio-ih-9984
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9939" tvg-id="mjh-radio-ih-9939" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64c70eb8021a5420524a28f9" group-title="Au" radio="true" , Vision Kids
+https://i.mjh.nz/radio-ih-9939.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9690" tvg-id="mjh-radio-ih-9690" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63ca07e675c6d3c9b84f4782" group-title="Au" radio="true" , V180
+https://i.mjh.nz/radio-ih-9690.aac
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9243" tvg-id="mjh-radio-ih-9243" tvg-logo="https://i.iheart.com/v3/re/new_assets/619f53f9c1156cc80d502ea2" group-title="Au" radio="true" , eJukebox Hits
+https://i.mjh.nz/radio-ih-9243
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9750" tvg-id="mjh-radio-ih-9750" tvg-logo="https://i.iheart.com/v3/re/assets.streams/642d1caa6b3d6552d8cc8e69" group-title="Au" radio="true" , eJukebox Smooth
+https://i.mjh.nz/radio-ih-9750
+
+#EXTINF:-1 channel-id="mjh-radio-ih-9748" tvg-id="mjh-radio-ih-9748" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641f9d44e95244ec663dda6a" group-title="Au" radio="true" , TNT Radio
+https://i.mjh.nz/radio-ih-9748
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10144" tvg-id="mjh-radio-ih-10144" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c4505a3fef48f1bff243c9" group-title="Au" radio="true" , 2ME Gold
+https://i.mjh.nz/radio-ih-10144
+
+#EXTINF:-1 channel-id="mjh-radio-ih-6492" tvg-id="mjh-radio-ih-6492" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c664b6e5bdc8f89537a3465" group-title="Au" radio="true" , Test Stream One A
+https://i.mjh.nz/radio-ih-6492
+
+#EXTINF:-1 channel-id="mjh-radio-ih-10274" tvg-id="mjh-radio-ih-10274" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66349764ce49c9cdb68a6340" group-title="Au" radio="true" , ABC Sport 1
+https://i.mjh.nz/radio-ih-10274
