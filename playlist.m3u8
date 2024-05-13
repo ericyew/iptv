@@ -18,14 +18,8 @@ https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 channel-id="mjh-channel-9-vic" tvg-id="mjh-channel-9-vic" tvg-chno="9" group-title="Melbourne" , channel-9-vic
 https://i.mjh.nz/channel-9-vic.m3u8
 
-#EXTINF:-1 channel-id="mjh-channel-9-vic-alt" tvg-id="mjh-channel-9-vic" group-title="Melbourne" , Channel 9 | 720p 2ch
-https://i.mjh.nz/channel-9-vic-alt.m3u8
-
 #EXTINF:-1 channel-id="mjh-gem-vic" tvg-id="mjh-gem-vic" tvg-chno="92" group-title="Melbourne" , gem-vic
 https://i.mjh.nz/gem-vic.m3u8
-
-#EXTINF:-1 channel-id="mjh-gem-vic-alt" tvg-id="mjh-gem-vic" group-title="Melbourne" , 9Gem | 720p 2ch
-https://i.mjh.nz/gem-vic-alt.m3u8
 
 #EXTINF:-1 channel-id="mjh-go-vic" tvg-id="mjh-go-vic" tvg-chno="93" group-title="Melbourne" , go-vic
 https://i.mjh.nz/go-vic.m3u8
@@ -47,6 +41,33 @@ https://i.mjh.nz/10peach-vic.m3u8
 
 #EXTINF:-1 channel-id="mjh-10shake-vic" tvg-id="mjh-10shake-vic" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Melbourne" , Nickelodeon
 https://i.mjh.nz/10shake-vic.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au" , SBS
+https://i.mjh.nz/sbs.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-viceland" tvg-id="mjh-sbs-viceland" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" tvg-chno="31" group-title="Au" , SBS VICELAND
+https://i.mjh.nz/sbs-viceland.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-food" tvg-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="33" group-title="Au" , SBS Food
+https://i.mjh.nz/sbs-food.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-world-movies" tvg-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="32" group-title="Au" , SBS World Movies
+https://i.mjh.nz/sbs-world-movies.m3u8
+
+#EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="World" , Al Jazeera
+https://i.mjh.nz/al-jazeera.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
+https://i.mjh.nz/channel-news-asia.m3u8
+
+#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Au" , Bloomberg TV
+https://i.mjh.nz/bloomberg-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Au" , Sky News Now
+https://i.mjh.nz/sky-news-now.m3u8
+
+#EXTINF:-1 channel-id="mjh-7now-FAST" tvg-id="mjh-7now-FAST" tvg-logo="https://i.mjh.nz/.images/7now-FAST.png" group-title="Au" , 7now
+https://i.mjh.nz/7now-FAST.m3u8
 
 #EXTINF:-1 channel-id="mjh-c31" tvg-id="mjh-c31" tvg-logo="https://i.mjh.nz/.images/c31.png" tvg-chno="44" group-title="Melbourne" , Channel 31
 https://i.mjh.nz/c31.m3u8
@@ -107,9 +128,6 @@ https://i.mjh.nz/cas25-FAST.m3u8
 
 #EXTINF:-1 channel-id="mjh-cas26-FAST" tvg-id="mjh-cas26-FAST" tvg-logo="https://i.mjh.nz/.images/cas26-FAST.png" group-title="Au" , Home and Away Classics
 https://i.mjh.nz/cas26-FAST.m3u8
-
-#EXTINF:-1 channel-id="mjh-7now-FAST" tvg-id="mjh-7now-FAST" tvg-logo="https://i.mjh.nz/.images/7now-FAST.png" group-title="Au" , 7now
-https://i.mjh.nz/7now-FAST.m3u8
 
 #EXTINF:-1 channel-id="mjh-livgolfreplays-FAST" tvg-id="mjh-livgolfreplays-FAST" tvg-logo="https://i.mjh.nz/.images/livgolfreplays-FAST.png" group-title="Au" , LIV Golf Replays
 https://i.mjh.nz/livgolfreplays-FAST.m3u8
@@ -411,18 +429,6 @@ https://c.mjh.nz/sport_in_90_seconds
 #EXTINF:-1 channel-id="mjh-abc-90-seconds-weather" tvg-id="mjh-abc-90-seconds-weather" tvg-logo="https://live-production.wcms.abc-cdn.net.au/d376e49724862f104d044ff6467f85d8?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="Au" , ABC Weather in 90 Seconds
 https://c.mjh.nz/weather_in_90_seconds
 
-#EXTINF:-1 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au" , SBS
-https://i.mjh.nz/sbs.m3u8
-
-#EXTINF:-1 channel-id="mjh-sbs-viceland" tvg-id="mjh-sbs-viceland" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" tvg-chno="31" group-title="Au" , SBS VICELAND
-https://i.mjh.nz/sbs-viceland.m3u8
-
-#EXTINF:-1 channel-id="mjh-sbs-food" tvg-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="33" group-title="Au" , SBS Food
-https://i.mjh.nz/sbs-food.m3u8
-
-#EXTINF:-1 channel-id="mjh-sbs-world-movies" tvg-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="32" group-title="Au" , SBS World Movies
-https://i.mjh.nz/sbs-world-movies.m3u8
-
 #EXTINF:-1 channel-id="mjh-sbs-nitv" tvg-id="mjh-sbs-nitv" tvg-logo="https://i.mjh.nz/.images/sbs-nitv.png" tvg-chno="34" group-title="Au" , NITV
 https://i.mjh.nz/sbs-nitv.m3u8
 
@@ -441,12 +447,6 @@ https://i.mjh.nz/sky-racing-2.m3u8
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="Au" , Sky Racing - Thoroughbred Central
 https://i.mjh.nz/sky-racing-thoroughbred.m3u8
 
-#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Au" , Bloomberg TV
-https://i.mjh.nz/bloomberg-tv.m3u8
-
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Au" , Sky News Now
-https://i.mjh.nz/sky-news-now.m3u8
-
 #EXTINF:-1 channel-id="mjh-good-dot" tvg-id="mjh-good-dot" tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="Au" , GOOD.
 https://i.mjh.nz/good-dot.m3u8
 
@@ -456,8 +456,3 @@ https://i.mjh.nz/gecko.m3u8
 #EXTINF:-1 channel-id="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="World" , Redbull TV
 https://i.mjh.nz/redbull-tv.m3u8
 
-#EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="World" , Al Jazeera
-https://i.mjh.nz/al-jazeera.m3u8
-
-#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
-https://i.mjh.nz/channel-news-asia.m3u8
