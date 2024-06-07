@@ -97,8 +97,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-id="ABCNews.au" group-title="News",ABC News (AU)
-https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" group-title="News",NHK World Japan
 https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 #EXTINF:-1 tvg-name="Taiwan+" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-id="TaiwanPlusTV.tw" group-title="News",Taiwan+
@@ -129,6 +127,9 @@ https://bloomberg.com/media-manifest/streams/aus.m3u8
 
 #EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Australia", Sky News Now
 https://i.mjh.nz/sky-news-now.m3u8
+
+#EXTINF:-1 tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-id="ABCNews.au" group-title="News",ABC News (AU)
+https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
 #EXTINF:-1 channel-id="mjh-7now-FAST" tvg-id="mjh-7now-FAST" tvg-logo="https://i.mjh.nz/.images/7now-FAST.png" group-title="Australia", 7now
 https://i.mjh.nz/7now-FAST.m3u8
@@ -569,8 +570,8 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-name="HOY TV Ⓖ" tvg-logo="https://i.imgur.com/NfVZPTT.png" tvg-id="HKIBC.hk" group-title="Hong Kong",HOY TV Ⓖ
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" tvg-id="TVBNewsChannel.hk" group-title="Hong Kong",TVB News Channel
-https://tvp22.sky4k.top/index1.php
+# #EXTINF:-1 tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" tvg-id="TVBNewsChannel.hk" group-title="Hong Kong",TVB News Channel
+# https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 tvg-name="TVB Finance (Sports & Information Channel)" tvg-logo="https://i.imgur.com/Fkkp7x7.png" tvg-id="TVBFinanceSportsInformationChannel.hk" group-title="Hong Kong",TVB Finance (Sports & Information Channel)
 https://tvp22.sky4k.top/index2.php
 
