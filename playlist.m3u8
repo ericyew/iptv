@@ -56,11 +56,11 @@ https://i.mjh.nz/sbs-world-movies.m3u8
 https://i.mjh.nz/sbs-world-watch.m3u8
 
 # News
-#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Australia", Bloomberg TV
+#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="Bloomberg BLA.au" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Australia", Bloomberg TV
 https://i.mjh.nz/bloomberg-tv.m3u8
 #EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="News", Al Jazeera
 https://i.mjh.nz/al-jazeera.m3u8
-#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="News", Channel News Asia (CNA)
+#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="CNA (HD).sg" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="News", Channel News Asia (CNA)
 https://i.mjh.nz/channel-news-asia.m3u8
 
 # #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="BBCNews.uk" group-title="News",BBC News (Fastly)
@@ -71,21 +71,21 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 # https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" group-title="News",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEuropeHD.us" group-title="News",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="Sky News" group-title="News",Sky News (UK)
+#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="Sky News HD" group-title="News",Sky News (UK)
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png" tvg-id="Sky News Australia" group-title="News",Sky News Now (AU)
 https://i.mjh.nz/sky-news-now.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News",France 24
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France 24 English HD" group-title="News",France 24
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 # #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News",Al Jazeera
 # https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="NBCNewsNOW.us" group-title="News",NBC News NOW
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="NBC News Now HD" group-title="News",NBC News NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="News",CBS News
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBS" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" tvg-id="ABCNewsLive.us" group-title="News",ABC News Live
 https://lnc-abc-news.tubi.video/index.m3u8
